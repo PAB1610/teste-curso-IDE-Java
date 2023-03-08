@@ -1,7 +1,5 @@
 package br.com.dio;
 
-
-
 public class ProgramaUm {
 
 	public static void main(String[] args) {
